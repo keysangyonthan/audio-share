@@ -1,0 +1,20 @@
+body { font-family: Helvetica, Arial, sans-serif; }
+blockquote { font-family: Times, "Times New Roman", serif; }
+
+.main-container{
+    width: 100%;
+}
+
+.material-icons{
+    padding-top: 0px;
+    margin-right: 10px;
+}
+.image-container{
+    display: flex;
+    position: relative;;
+    text-align: center;
+}
+
+.banner-profile-image{
+    position: relative;
+}
